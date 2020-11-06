@@ -8,8 +8,8 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xyh&show_icons=true&theme=gotham" alt="priscillascu" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xyh)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 <!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xyh)](https://github.com/anuraghazra/github-readme-stats)
+
