@@ -8,4 +8,4 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
   
-![xyh's github stats](https://github-readme-stats.vercel.app/api?username=ohmyjesus)](https://github.com/ohmyjesus/github-readme-stats)
+![xyh's github stats](https://github-readme-stats.vercel.app/api?username=ohmyjesus)]
