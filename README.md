@@ -1,6 +1,6 @@
 # YuHang Xiong
 
-## Postgraduate in SiChuan university
+## Postgraduate in SiChuan University
 ![](https://img.shields.io/badge/Language-Go/GoLang-orange.svg?style=flat&logo=go&logoColor=ffffff)
 ![](https://img.shields.io/badge/os-linux-blue?style=flat&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/use-matlab-brightgreen?style=flat&logo=mathworks&logoColor=ffffff)
