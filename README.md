@@ -1,4 +1,4 @@
-# YuHang Xiong
+# Yuhang Xiong
 
 ## Postgraduate in SiChuan University
 ![](https://img.shields.io/badge/Language-Go/GoLang-orange.svg?style=flat&logo=go&logoColor=ffffff)
