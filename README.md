@@ -16,9 +16,6 @@
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=000000&color=000000)
 ![Static Badge](https://img.shields.io/badge/Steam-11?logo=steam&color=000000)
 ![Static Badge](https://img.shields.io/badge/LOL-12?logo=leagueoflegends&color=000000)
-
-
-
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmyjesus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmyjesus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=dracula" />
 
