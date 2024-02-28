@@ -8,7 +8,7 @@
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-ff3399?logo=visualstudiocode)
-![](https://img.shields.io/badge/Studied-Labview-blueviolet?style=flat%20Code&logo=labview&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/VI-Labview-0080ff?logo=Labview&color=9933ff)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=cccc00)
 ![Static Badge](https://img.shields.io/badge/PLC-AS-12?logo=bandrautomation&logoColor=%23FF8800&color=0080ff)
 
