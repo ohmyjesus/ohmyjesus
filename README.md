@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Os-Linux-0080ff?logo=linux)
 ![Static Badge](https://img.shields.io/badge/IPhone-12-0080ff?logo=apple)
 
-### Tools
+### Skill&Tools
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-ff3399?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=cccc00)
