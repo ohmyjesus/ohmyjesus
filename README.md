@@ -12,6 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/PLC-AS-12?logo=bandrautomation&logoColor=%23FF8800&color=0080ff)
 ![Static Badge](https://img.shields.io/badge/VI-Labview-0080ff?logo=Labview&color=9933ff)
 
+[![img](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dohmyjesus)](https://github.com/ohmyjesus)
+
+
 ### Console&Game
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=000000&color=000000)
 ![Static Badge](https://img.shields.io/badge/Steam-11?logo=steam&color=000000)
