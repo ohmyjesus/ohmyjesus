@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Os-Linux-blue?style=flat&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/Studied-Labview-blueviolet?style=flat%20Code&logoColor=ffffff)
 
-<details>
 
   
 ![xyh's github stats](https://github-readme-stats.vercel.app/api?username=ohmyjesus&show_icons=true&theme=dracula&count_private=true)
