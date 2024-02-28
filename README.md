@@ -2,8 +2,8 @@
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
-![](https://img.shields.io/badge/Os-Linux-blue?style=flat&logo=Linux&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/IPhone-12-ff0000?logo=apple&color=black)
+![Static Badge](https://img.shields.io/badge/Os-Linux-0080ff?logo=linux)
+![Static Badge](https://img.shields.io/badge/IPhone-12-0080ff?logo=apple&color=black)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
