@@ -15,7 +15,7 @@
 ### Console&Game
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=000000&color=000000)
 ![Static Badge](https://img.shields.io/badge/Steam-11?logo=steam&color=000000)
-![Static Badge](https://img.shields.io/badge/LOL-12?logo=leagueoflegends&logoColor=%23FF8800&color=000000)
+![Static Badge](https://img.shields.io/badge/LOL-12?logo=leagueoflegends&logoColor=%000000&color=000000)
 
 
 
