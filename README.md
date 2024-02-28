@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0080ff?logo=visualstudiocode)
 ![](https://img.shields.io/badge/Studied-Labview-blueviolet?style=flat%20Code&logo=labview&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=ff0000)
-![Static Badge](https://img.shields.io/badge/PLC-12?logo=bandrautomation&logoColor=%23FF8800&color=33ffff)
+![Static Badge](https://img.shields.io/badge/PLC-AS-12?logo=bandrautomation&logoColor=%23FF8800&color=0080ff)
 
 ### Console&Game
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=ff0000&color=ff0000)
