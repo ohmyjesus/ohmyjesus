@@ -2,7 +2,7 @@
 
 ### Platform&Tools
 
-![](https://img.shields.io/badge/Use-Matlab-brightgreen?style=flat&logo=mathworks&logoColor=ffffff) // dwa
+![](https://img.shields.io/badge/Use-Matlab-brightgreen?style=flat&logo=mathworks&logoColor=ffffff)  #da
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
 
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-0080ff?logo=visualstudiocode)
