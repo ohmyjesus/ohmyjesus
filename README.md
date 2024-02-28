@@ -7,7 +7,7 @@
 [![img](https://img.shields.io/badge/dynamic/json?color=0080ff&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dohmyjesus)](https://github.com/ohmyjesus)
 ![Static Badge](https://img.shields.io/badge/CSDN-500%2Bfollowers-0080ff)
 
-### Skill&Tools
+### Skills&Tools
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-ff3399?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=cccc00)
