@@ -4,8 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Os-Linux-0080ff?logo=linux)
 ![Static Badge](https://img.shields.io/badge/IPhone-12-0080ff?logo=apple)
-[![img](https://img.shields.io/badge/dynamic/json?color=ff0000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dohmyjesus)](https://github.com/ohmyjesus)
-![Static Badge](https://img.shields.io/badge/CSDN-500%2Bfollowers-FF0000)
+[![img](https://img.shields.io/badge/dynamic/json?color=0080ff&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dohmyjesus)](https://github.com/ohmyjesus)
+![Static Badge](https://img.shields.io/badge/CSDN-500%2Bfollowers-0080ff)
 
 ### Skill&Tools
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
