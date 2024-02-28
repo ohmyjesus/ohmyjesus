@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/Studied-Labview-blueviolet?style=flat%20Code&logo=labview&logoColor=ffffff)
 
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ohmyjesus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
