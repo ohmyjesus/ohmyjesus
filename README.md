@@ -4,6 +4,7 @@
 #### Skill： Matlab/Simulink、Keil/STM32、VSCode/C、PLC/AS、Labview
 
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-red)
+![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-123-red)
 
 ![](https://img.shields.io/badge/Use-Matlab-brightgreen?style=flat&logo=mathworks&logoColor=ffffff)
 ![](https://img.shields.io/badge/Language-C-orange.svg?style=flat&logo=c&logoColor=ffffff)
