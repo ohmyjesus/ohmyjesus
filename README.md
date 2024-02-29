@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/CSDN-500%2Bfollowers-0080ff?logo=RSS)
 
 ### Skills&Tools
-![Static Badge](https://img.shields.io/badge/Robot%20Control-11?logo=probot&color=000000)
+![Static Badge](https://img.shields.io/badge/Robot%20Control-11?logo=probot&color=404040)
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-ff3399?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=cccc00)
