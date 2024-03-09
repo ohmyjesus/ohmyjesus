@@ -1,4 +1,4 @@
-## Good Morning and Good Night
+## Control Engineering Postgraduate
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
