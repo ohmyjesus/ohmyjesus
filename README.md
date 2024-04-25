@@ -8,11 +8,13 @@
 ![Static Badge](https://img.shields.io/badge/CSDN-1k%2Bfollowers-0080ff?logo=RSS)
 
 ### Skills&Tools
+<!--LateX-TexStudio-0080ff -->
 ![Static Badge](https://img.shields.io/badge/Matlab%2FSimulink-12?logo=maildotcom&color=ff0000)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-ff3399?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Keil-12?logo=kaios&color=cccc00)
 ![Static Badge](https://img.shields.io/badge/PLC-Automation%20Studio-12?logo=bandrautomation&logoColor=FF8800&color=66cc00)
 ![Static Badge](https://img.shields.io/badge/VI-Labview-0080ff?logo=Labview&color=9933ff)
+![Static Badge](https://img.shields.io/badge/LateX-TexStudio-0080ff?logo=latex&color=009999)
 
 ### Console&Game
 ![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-11?logo=nintendoswitch&labelColor=000000&color=000000)
