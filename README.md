@@ -1,4 +1,4 @@
-## Control Engineering Postgraduate
+## PhD. Control Engineering
 
 ### Platform
 ![Static Badge](https://img.shields.io/badge/Windows-11-0080ff?logo=windows11)
